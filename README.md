@@ -1,2 +1,21 @@
 # all-in-one-place
-This is where I put my Ai tools and use Ai to sort them.
+This is where I put my Ai tools and use Ai to sort them. This catalog highlights high-signal AI and trading projects that are worth revisiting.
+
+## Knowledge bases & reference libraries
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) — curated cheat sheets and reference lists for developers, operators, and security researchers.
+
+## Creative writing & narrative tooling
+- [TylrDn/poetry](https://github.com/TylrDn/poetry) — poetry-focused experiments and writing-oriented AI tooling.
+
+## Generative media & model workbenches
+- [TylrDn/wan2.2](https://github.com/TylrDn/wan2.2) — model experiments and generative AI workflows.
+
+## Agentic research & automation
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) — multi-agent research environment for market analysis and trading strategies.
+
+## Quant research & analytics
+- [AlainDaccache/Quantropy](https://github.com/AlainDaccache/Quantropy) — quantitative research toolkit for analyzing market behavior and strategy performance.
+
+## Market data & execution infrastructure
+- [PFund-Software-Ltd/pfeed](https://github.com/PFund-Software-Ltd/pfeed) — data feed tooling for market ingestion and normalization.
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) — event-driven trading platform with backtesting and live execution support.
